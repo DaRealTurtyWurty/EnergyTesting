@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "energytesting:block/consumer"
+		},
+		"facing=east": {
+			"model": "energytesting:block/consumer",
+			"y": 90
+		},
+		"facing=south": {
+			"model": "energytesting:block/consumer",
+			"y": 180
+		},
+		"facing=west": {
+			"model": "energytesting:block/consumer",
+			"y": 270
+		}
+	}
+}

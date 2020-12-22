@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "energytesting:block/energy_storage"
+		}
+	}
+}

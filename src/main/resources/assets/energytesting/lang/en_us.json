@@ -1,0 +1,14 @@
+{
+	"block.energytesting.generator": "Energy Generator",
+	"block.energytesting.energy_storage": "Energy Storage",
+	"block.energytesting.consumer": "Energy Consumer",
+	"block.energytesting.wireless_transmitter": "Wireless Transmitter",
+	"block.energytesting.wireless_reciever": "Wireless Reciever",
+	
+	"container.energytesting.generator": "Energy Generator",
+	"container.energytesting.consumer": "Energy Consumer",
+	"container.energytesting.wireless_transmitter": "Wireless Transmitter",
+	
+	"item.energytesting.energy_capsule": "Energy Capsule",
+	"item.energytesting.marker": "Energy Marker"
+}

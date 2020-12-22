@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "energytesting:block/wireless_reciever" },
+        "facing=down": { "model": "energytesting:block/wireless_reciever", "x": 180 },
+        "facing=east": { "model": "energytesting:block/wireless_reciever", "y": 90, "x": 90 },
+        "facing=south": { "model": "energytesting:block/wireless_reciever", "y": 180, "x": 90 },
+        "facing=west": { "model": "energytesting:block/wireless_reciever", "y": 270, "x": 90 },
+        "facing=north": { "model": "energytesting:block/wireless_reciever", "y": 0, "x": 90 }
+    }
+}
